@@ -36,6 +36,10 @@ feature:
   icon: microscope
   icon_pack: fas
   name: Numerical Analysis
+- description: 90%
+  icon: edit
+  icon_pack: fas
+  name: Latex
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
