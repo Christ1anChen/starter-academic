@@ -25,13 +25,13 @@ experience:
   - title: Master in Applied Statistics
     company: University of Michigan, Ann Arbor
     company_url: 'https://umich.edu/'
-    company_logo: org-gc
+    company_logo: Umich-icon
     location: Michigan
     date_start: '2021-09-01'
     date_end: ''
     description: |2-
         Responsibilities include:
-        
+      
         * Analysing
         * Modelling
         * Deploying
