@@ -29,12 +29,12 @@ experience:
     location: Michigan
     date_start: '2021-09-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-      
-        * Analysing
-        * Modelling
-        * Deploying
+#   description: |2-
+#        Responsibilities include:
+#      
+#        * Analysing
+#        * Modelling
+#        * Deploying
         
   - title: Bachelor of Science in Computational Mathematics
     company: Peking University
@@ -43,7 +43,7 @@ experience:
     location: Beijing
     date_start: '2017-09-01'
     date_end: '2021-07-01'
-    description: Taught electronic engineering and researched semiconductor physics.
+#    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
