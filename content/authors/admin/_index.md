@@ -43,9 +43,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ChenGuixian
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://twitter.com/ChenGuixian
+#- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
+#  icon_pack: fas
+#  link: https://twitter.com/ChenGuixian
 - icon: github
   icon_pack: fab
   link: https://github.com/Christ1anChen
@@ -67,10 +67,11 @@ email: "christian.guixianchen@gmail.com"
 highlight_name: false
 ---
 
-Guixian Chen is a master student of statistics at University of Michigan. His research interests include 
+Guixian Chen is currently a master student of statistics at University of Michigan. Prior to graduate school, Guixian Chen obtained his Bachelor's degree from School of Mathematical Sciences, Peking University. He completed his graduation thesis " " under the supervision of Shuonan Wu. Before that, he grew up in Wuhan, China.
+
+
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
